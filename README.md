@@ -1,4 +1,4 @@
 I store links to things I like, in this repository.
 
-### Topics
+### Tech
 - [React.js](/React.md)
